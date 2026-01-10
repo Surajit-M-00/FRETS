@@ -44,8 +44,4 @@ Training, inference, dataset preparation, and demo scripts will be included.
 🎥 Demo (Coming Soon)
 A real-time webcam demo for contactless SpO₂ estimation will be added.
 
-Citation
-If you use FRETS in your research, please cite:
-To appear — citation will be added after publication.
 
-For questions and collaboration inquiries, please open an issue or contact the authors.
