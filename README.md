@@ -32,7 +32,6 @@ VIPL-HR
 FRETS achieves competitive or state-of-the-art MAE/RMSE with significantly lower inference latency, making it suitable for real-time and edge deployment.
 
 Datasets:
-Links and preparation scripts will be provided for:
 PURE
 BH-rPPG
 VIPL-HR
@@ -40,7 +39,6 @@ Due to licensing constraints, datasets are not redistributed.
 
 Code Release
 Training, inference, dataset preparation, and demo scripts will be included.
-📌 Code and model checkpoints will be released after conference acceptance.
 🎥 Demo (Coming Soon)
 A real-time webcam demo for contactless SpO₂ estimation will be added.
 
