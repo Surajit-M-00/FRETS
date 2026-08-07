@@ -37,9 +37,6 @@ BH-rPPG
 VIPL-HR
 Due to licensing constraints, datasets are not redistributed.
 
-Code Release
-Training, inference, dataset preparation, and demo scripts will be included.
-🎥 Demo (Coming Soon)
-A real-time webcam demo for contactless SpO₂ estimation will be added.
+
 
 
